@@ -47,3 +47,5 @@ It would be interesting to see how the crime data in the west Midlands compared 
 This data might disprove certain stereotypes / discrimination for areas with higher deprivation levels. This feeds into the literature examined in the research purpose. 
 
 ## References
+
+The Independent(2020) https://www.independent.co.uk/news/uk/crime/crime-young-people-poverty-uk-trauma-discrimination-racism-a9682881.html (accessed 22.04.22).
