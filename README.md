@@ -6,11 +6,11 @@ Project completed by Shannon Watts and Gary Whitney.
 ## Research Purpose
 'Crimes of despair' (The Independent, 2020).
 
-The 
+Are social disadvantage, poverty and crime linked?
 
-What is the link between crime and deprivation. Are you more likely to see higher levels of 
+What is the link between crime and deprivation? Are you more likely to see higher levels of crime in areas with high deprivation levels? Does the type of crime differ depending on the level of deprivation in an area?
 
-The Index of Multiple Deprivation (IMD)  --- of which crime is one indicator. But, 
+The IMD score is created with 7 domains of deprivation: Income (22.5%), Employment (22.5%), Education (13.5%), Health (13.5%), Crime (9.3%), Barriers to Housing & Services (9.3%), and Living Environment (9.3%). We expect that because crime is one domain used to create the IMD score that the crime rates in the LLSOAs should correlate with the IMD score.
 
 ## Hypothesis
 The higher the IMD score the higher the rate of crime in a LSOA within a district.
@@ -48,4 +48,4 @@ This data might disprove certain stereotypes / discrimination for areas with hig
 
 ## References
 
-The Independent(2020) https://www.independent.co.uk/news/uk/crime/crime-young-people-poverty-uk-trauma-discrimination-racism-a9682881.html (accessed 22.04.22).
+The Independent (2020) https://www.independent.co.uk/news/uk/crime/crime-young-people-poverty-uk-trauma-discrimination-racism-a9682881.html (accessed 22.04.22).
